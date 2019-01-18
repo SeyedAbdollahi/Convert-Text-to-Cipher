@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">تبدیل متن به رمز</string>
+
+    <string name="app_version">نسخه برنامه: V3.1.1 به روزرسانی بهار 1397</string>
+    <string name="core_version">نسخه هسته رمزنگاری: V2.0.0 به روزرسانی فروردین 1397</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
